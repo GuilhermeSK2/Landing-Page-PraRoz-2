@@ -1,6 +1,6 @@
 # Landing Page PraRoz
 
-![preview](./PraRoz2.PNG)
+![preview](./PraRoz.PNG)
  
  - Landing Page simples
 
